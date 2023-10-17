@@ -13,4 +13,4 @@
     > git log
 - távoli repo létrehozása (github)
 - összekapcsolás (helyi - távoli)
-    > git remote add origin https://token@github.com/Elyxin169/repo-name.git
+    > git remote add origin https://token@github.com/user/repo-name.git
